@@ -6,7 +6,7 @@ a little change in font can change the whole mood of the logo and the website.
 Moreover,I really got inspired by the work of Josué Menjivar.So, i thought of doing something in designing trends.
 
 ### Deliverables
-* An 3d typohraphy 
+* 3d typography 
 * little innovation with the whole theme of the design
 * I have to yet decide the whole theme of the design.
 
