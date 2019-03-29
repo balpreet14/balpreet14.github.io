@@ -1,1 +1,25 @@
 
+
+# [Adobe after effects mini project week4]({% post_url 2019-02-1-week4 %})
+## Accomplishments:
+I have created the background for the application.
+I have created the animation for all the layers and combined all the layers in one composition
+Then i have created a mp4 file from the composition.
+Used the 3d layer tool to make the shadow.
+In short, Finally,I completed my project in this week
+
+
+## Problems:
+Overall i wanted to use the puppet tool and the tranformations together.But it forms a unwanted outline over the character.Creating a 3d layer was difficult .As, the shadow was simple fill but then i have to change it's direction to make it look like a shadow.
+Another problem was that, I was not able to render the video in mp4 format. so, i have to use the Media encoder tool to do the same.
+
+## Future work
+I can use it in future as a experience to learn more about adobe and can become a good animator/cartoon artist in future.
+
+## Overall
+The total work  was :
+* movements of arms and legs.
+* animated background
+* rotation of the character(not sure about it)
+But, I was unable to make the overall rotation of the charcter in 3d and use puppet tool.
+Overall i think i was able to achieve maximum of it. Moreover, I used different effects, texts and 3d layers which i haven't decided it to use in my project earlier.
