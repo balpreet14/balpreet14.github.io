@@ -10,6 +10,7 @@
 ## Problems:
 Overall in this project i haven't faced any major problem till now.But choosing gradient for each shape was bit of a work.
 
+
 ## Future work
 In future i can use this to make logos.As 3D typography is a trend now so i can use it in future for making posters.I love working on Illustrator and i was fun doing it.
 
