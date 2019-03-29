@@ -15,7 +15,8 @@ In future i can use this to make logos.As 3D typography is a trend now so i can 
 The total work  was :
 * To design a 3D typography and 3D design. 
 * With retro theme Poster
-### Work done:
+
+Work done:
 Overall, i feel i have designed pretty much what i had in my mind.
 
 ## Summary
