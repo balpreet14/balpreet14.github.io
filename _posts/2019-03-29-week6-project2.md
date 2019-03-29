@@ -1,5 +1,5 @@
 
-# [Designing Trends 2019 mini project description week 6]({% post_url 2019-03-29-week6 %})
+# [Designing Trends 2019 mini project description week 6]({% post_url 2019-03-29-week6-project2 %})
 ## Accomplishments:
 * I have successfully created the 3d cup as a 3D design for the poster.
 * I have created a 3D typography for the poster.
