@@ -1,25 +1,21 @@
 
 
-# [Adobe after effects mini project week4]({% post_url 2019-02-1-week4 %})
+# [Designing Trends 2019 mini project description week 6]({% post_url 2019-03-29-week6 %})
 ## Accomplishments:
-I have created the background for the application.
-I have created the animation for all the layers and combined all the layers in one composition
-Then i have created a mp4 file from the composition.
-Used the 3d layer tool to make the shadow.
-In short, Finally,I completed my project in this week
+I have successfully created the 3d cup as a 3D design for the poster.
+I have created a 3D typography for the poster.
+I have used texture to make the poster look little retro, Even the cup design is little retro.
 
 
 ## Problems:
-Overall i wanted to use the puppet tool and the tranformations together.But it forms a unwanted outline over the character.Creating a 3d layer was difficult .As, the shadow was simple fill but then i have to change it's direction to make it look like a shadow.
-Another problem was that, I was not able to render the video in mp4 format. so, i have to use the Media encoder tool to do the same.
+Overall in this project i haven't faced any major problem till now.But choosing gradient for each shape was bit of a work.
 
 ## Future work
-I can use it in future as a experience to learn more about adobe and can become a good animator/cartoon artist in future.
+In future i can use this to make logos.As 3D typography is a trend now so i can use it in future for making posters.I love working on Illustrator and i was fun doing it.
 
 ## Overall
 The total work  was :
-* movements of arms and legs.
-* animated background
-* rotation of the character(not sure about it)
-But, I was unable to make the overall rotation of the charcter in 3d and use puppet tool.
-Overall i think i was able to achieve maximum of it. Moreover, I used different effects, texts and 3d layers which i haven't decided it to use in my project earlier.
+* To design a 3D typography and 3D design. 
+* With retro theme Poster
+Overall, i feel i have designed pretty much what i had in my mind.I was able to complete my goals.But, I have recently came accross 3D design in Photoshop and i think it is a better tool for this purpose. The 3D text looks more realistic in photoshop.But, illustrator is a very good tool for a great start.In future i may try photoshop for this purpose.
+
