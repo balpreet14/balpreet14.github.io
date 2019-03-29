@@ -20,9 +20,9 @@ For the 3D design of the cup, we need these colours shown in table:
    
 3. Then select a rounded rectangle tool from toolbar on left side and draw a rectangle with the biggest radius. To increase the radius move the round handles. Simply hold and drag the round blue handles in each corner.
 For more info you can use this link:
- https://helpx.adobe.com/ca/illustrator/how-to/live-shapes.html
+https://helpx.adobe.com/ca/illustrator/how-to/live-shapes.html
 
-4.Then draw a line in the middle of the rounded rectangle with the help of the line segment tool located in the toolbar. Then use the pathfinder tool by going to main menu>windows>pathfinder.Then select both rectangle and line, Click Divide. Then Go to Object>Ungroup. Then delete the upper rectangle half by selecting upper half and pressing delete button .
+4. Then draw a line in the middle of the rounded rectangle with the help of the line segment tool located in the toolbar. Then use the pathfinder tool by going to main menu>windows>pathfinder.Then select both rectangle and line, Click Divide. Then Go to Object>Ungroup. Then delete the upper rectangle half by selecting upper half and pressing delete button .
  
 5. Then draw an oval-shaped circle at the top of the cup by using selection tool. Make sure its diameter is the same as the breadth of the rectangle.
  
@@ -35,14 +35,11 @@ object> arrange >send to back from main menu.
  
 8. Select the circle using the selection tool and decrease the radius of the lower side of the oval by selecting a rectangle with help of selection tool and moving the lower portion upwards. Then bring the shape to the center of the bottom of the cup to make it look like a plate.
  
-
 9. Select the same circle then go to edit>copy>edit>paste in back. Then by holding shift+option keys decrease the size of the circle and place it as shown in the figure below. Change its fill to darker grey.
-
-                                                   
+                                                 
 10. Select the pen tool to draw the handle of the cup. select the option button to show pointers and reset the pointers of anchor point by holding them and dragging them to the direction you want.
 
-
-11.Select the circle at the top of the cup as shown in the figure. Select in top menu bar edit>copy>edit>paste in front>arrange>send to back. Change the fill colour to a lighter grey. Then decrease the radius of the circle by a few millimeters.
+11. Select the circle at the top of the cup as shown in the figure. Select in top menu bar edit>copy>edit>paste in front>arrange>send to back. Change the fill colour to a lighter grey. Then decrease the radius of the circle by a few millimeters.
 
 12. Now to colour. Make small rectangles of each solid colour on side of the artboard to fill the colour by eyedropper tool.As this will make colouring process very easy. Select the cup and with eyedropper tool (present in the toolbar on the left side) change the fill colour to red gradient  as shown in fig below. Then select the gradient tool (Go to menu window>gradient) to change the gradient direction and width.
 
@@ -54,14 +51,13 @@ object> arrange >send to back from main menu.
 
 16. Similarly, colour the handle of the cup with the eyedropper tool. Set the gradient of the cup by choosing the gradient tool on the side of the toolbar.
 
-17.Colour the lower bottom of the plate with   colour.Set the gradient at 90-degree.
+17. Colour the lower bottom of the plate with   colour.Set the gradient at 90-degree.
 
- 
-18.Colour the plate with  colour. Set the gradient to radial. Then go to edit>copy>paste in front. Then resize it to a smaller size by holding shift+cmd. Colour the bottom to  .
+18. Colour the plate with  colour. Set the gradient to radial. Then go to edit>copy>paste in front. Then resize it to a smaller size by holding shift+cmd. Colour the bottom to  .
                                                           
 19. Again copy the bottom circle by clicking on edit>copy>paste in front>change the colour of stroke to  and fill to no colour. Then change the stroke value to 1px.
 
-20.Using the pen tool draw a shape as shown in the figure and then fill it with   colour.Apply gaussian blur to it of radius 33.3 px.To apply gaussian blur go to the main menu >effec>blur>gaussian blur.
+20. Using the pen tool draw a shape as shown in the figure and then fill it with   colour.Apply gaussian blur to it of radius 33.3 px.To apply gaussian blur go to the main menu >effec>blur>gaussian blur.
 
 21. Then make a small shadow circle at the bottom of the cup with shape tool that looks like a rectangle, in it’s sub menu it has ellipse tool. As shown in figure fill it with radial gradient  of black and grey (#999999).Apply gaussian blur on it with value 45.8px.
 22. Similarly, draw a circle near the handle to make a shadow. Apply gaussian blur of value 33.3 px and change opacity in properties panel to 60%.
@@ -71,18 +67,18 @@ object> arrange >send to back from main menu.
 
 
 ## For Text
-1.Using a typography tool type “coffee” on artboard with font size= 200px, font=Mustardo (regular).Then select word using the selection tool, then go to type> create outlines>object>ungroup. 
+1. Using a typography tool type “coffee” on artboard with font size= 200px, font=Mustardo (regular).Then select word using the selection tool, then go to type> create outlines>object>ungroup. 
  
 
 2. Then fill the letters with   colour but with the linear gradient, values as shown in the figure below.     
 
-3.Select the letter then Go to edit>copy >edit>paste in back and colour it to value(#28120A).Then change the stroke colour to fill colour and make fill colour to transparent. Change the stroke weight to 120px by selecting window>stroke>weight. 
+3. Select the letter then Go to edit>copy >edit>paste in back and colour it to value(#28120A).Then change the stroke colour to fill colour and make fill colour to transparent. Change the stroke weight to 120px by selecting window>stroke>weight. 
 
-4.Using the Direct selection tool set those deformed spikes on the text. This is done by moving the handlers inward.Handlers are blue round circles at joining of two anchor points.
+4. Using the Direct selection tool set those deformed spikes on the text. This is done by moving the handlers inward.Handlers  are blue round circles at joining of two anchor points.
  
 5. Now use the pen tool to create stoke inside “C” with width 2 pixels and profile as shown in figure:
  
-6.Create a second stroke in “C” with values as in figure below:  
+6. Create a second stroke in “C” with values as in figure below:  
 
 7. Similarly, create strokes in all the letters to make it look like a 3d all with stroke weight 1px.
 
@@ -90,24 +86,24 @@ object> arrange >send to back from main menu.
 
             
 ## For Poster Background
-1.Draw a rectangle of the same size as that of artboard and apply a gradient at 45-degree on it with colours  : 	 
+1. Draw a rectangle of the same size as that of artboard and apply a gradient at 45-degree on it with colours  : 	 
 
 2. Apply a texture to the rectangle by selecting in the main menu, effect>artistic>rough pastels.
 
-3.Similarly, apply a texture to cup and text.
+3. Similarly, apply a texture to cup and text.
 
 4. Then draw to rectangle inside the big rectangle with no fill but stroke colour of hex value (#411F10).Make the stroke weight of the inner rectangle to 8px and middle rectangle to 2px.
 
-5.Now place the letters accordingly, to make the poster look beautiful.
+5. Now place the letters accordingly, to make the poster look beautiful.
 
 6. Download it in png format by clicking on the file in the main menu>export>export 
 as>select destination folder> export.The quality should be  300 dpi and background white /transparent.
 
 SO in this tutorial we have learnt various tools from the illustrator. 
 ## REFERENCES
-1.https://www.youtube.com/watch?v=Oksaqp9zzCU
-2.https://www.youtube.com/watch?v=71RwHqVs-pY
-3.https://www.dreamstime.com/stock-photography-vintage-metal-sign-fresh-brewed-coffee-image26935852
+1. https://www.youtube.com/watch?v=Oksaqp9zzCU
+2. https://www.youtube.com/watch?v=71RwHqVs-pY
+3. https://www.dreamstime.com/stock-photography-vintage-metal-sign-fresh-brewed-coffee-image26935852
 
 
 
