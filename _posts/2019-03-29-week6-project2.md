@@ -21,4 +21,6 @@ Overall, i feel i have designed pretty much what i had in my mind.
 ## Summary
 I designed 3D typography and design poster.I leraned to use tools like pathfinder, selection tool, direct selection tool, gradient tool, shape tool and pen tool in the software.I made it retro style because it is a latest trend in market.
 But, I have recently came accross 3D design in Photoshop and i think it is a better tool for this purpose. The 3D text looks more realistic in photoshop.But, illustrator is a very good tool for a great start.In future i may try photoshop for this purpose.
+Here is the link to the tutorial:
+[Tutorial](https://github.com/balpreet14/balpreet14.github.io/blob/master/_posts/tutorial_poster_balpreet_kaur.pdf)
 
