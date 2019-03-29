@@ -15,10 +15,10 @@ In future i can use this to make logos.As 3D typography is a trend now so i can 
 The total work  was :
 * To design a 3D typography and 3D design. 
 * With retro theme Poster
-Work done:
+### Work done:
 Overall, i feel i have designed pretty much what i had in my mind.
 
-Summary
+## Summary
 I designed 3D typography and design poster.I used tools like pathfinder, selection tool, direct selection tool, gradient tool, shape tool and pen tool in the software.I made it retro style because it is a latest trend in market.
 But, I have recently came accross 3D design in Photoshop and i think it is a better tool for this purpose. The 3D text looks more realistic in photoshop.But, illustrator is a very good tool for a great start.In future i may try photoshop for this purpose.
 
