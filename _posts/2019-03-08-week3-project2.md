@@ -1,7 +1,7 @@
 
 
-# WEEK-2
-## [ Designing Trends 2019 mini project description week-2]({% post_url 2019-03-08-week3-project2 %})
+# WEEK-3
+## [ Designing Trends 2019 mini project description week-3]({% post_url 2019-03-08-week3-project2 %})
 ## Accomplishments:
 I designed the Coffee mug for the poster.I used gradient to make design look like 3D.I used basic tools like selector,shape tool and gradient to make the cup for the poster.
 ## Problems:
